@@ -1,0 +1,106 @@
+body
+{
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+h1
+{
+    color: #66BFBF;
+    font-family: "Sacramento", cursive;
+    margin: 50px auto 0 auto;
+    font-size: 5.0rem;
+}
+
+h2
+{
+    color: #66BFBF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.8rem;
+}
+
+h3
+{
+    color: #11999E;
+    font-family: "Montserrat", sans-serif;
+}
+
+.topcontainer
+{
+    background-color: #caeafc;
+    position: relative;
+    padding-top: 50px;
+}
+
+img
+{
+    position: relative;
+    right: 60px;
+}
+
+.topcloud
+{
+    position: relative;
+    top: 20px;
+    left: 230px;
+}
+
+.profile img
+{
+    position: relative;
+    left: 0px;
+}
+
+
+.skill-row
+{
+    text-align: left;
+    margin: 80px auto 80px auto;
+    width: 50%;
+}
+
+.codeskillimg
+{
+    float: left;
+    margin-right: 0px;
+    width: 20%;
+}
+
+.codeskilldescription
+{
+    padding-top: 40px;
+}
+
+.animationskilldescription
+{
+    padding-top: 40px;
+    text-align: right;
+}
+
+.animationskillimg
+{
+    width: 20%;
+    float: right;
+    margin-left: 90px;
+}
+
+.bottomcloud
+{
+    position: relative;
+    bottom: 300px;
+    left: 100px;
+}
+
+.bottom-container
+{
+    width: 100%;
+    position: absolute;
+    top: 90;
+    background-color: #66BFBF;
+}
+
+.contact-me
+{
+    margin-bottom: 100px;
+}
